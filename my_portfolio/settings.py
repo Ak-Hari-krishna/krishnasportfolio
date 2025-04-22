@@ -1,0 +1,3 @@
+# Remove email configuration section
+
+# ... existing code ... 
